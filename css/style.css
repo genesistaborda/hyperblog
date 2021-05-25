@@ -2,4 +2,21 @@ body {
     color: #333;
     text-align: justify;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 150px;
+}
+
+.titulo {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 8, 107);
+    text-align: center;
+}
+
+.parrafo {
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.contenedor {
+    border: 1px solid rgb(97, 95, 95);
+    padding: 30px;
 }
