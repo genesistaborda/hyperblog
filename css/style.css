@@ -21,7 +21,10 @@ body {
     padding: 30px;
 }
 
-#cabecera {
+.cabecera {
     background: rgb(29, 29, 134);
     border-radius: 20px;
+    color: cornsilk;
+    text-align: center;
+    font-size: 30px;
 }
