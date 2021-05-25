@@ -20,3 +20,12 @@ body {
     border: 1px solid rgb(97, 95, 95);
     padding: 30px;
 }
+
+.cabecera {
+    background-color: rgb(5, 5, 66);
+    color: cornsilk;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: darkgrey;
+    border-radius: 20px;
+}
